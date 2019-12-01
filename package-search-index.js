@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ru.yandex.money.common.dbqueue.api"},{"l":"ru.yandex.money.common.dbqueue.api.impl"},{"l":"ru.yandex.money.common.dbqueue.config"},{"l":"ru.yandex.money.common.dbqueue.config.impl"},{"l":"ru.yandex.money.common.dbqueue.dao"},{"l":"ru.yandex.money.common.dbqueue.settings"}]

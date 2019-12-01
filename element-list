@@ -1,0 +1,6 @@
+ru.yandex.money.common.dbqueue.api
+ru.yandex.money.common.dbqueue.api.impl
+ru.yandex.money.common.dbqueue.config
+ru.yandex.money.common.dbqueue.config.impl
+ru.yandex.money.common.dbqueue.dao
+ru.yandex.money.common.dbqueue.settings
